@@ -1,0 +1,11 @@
+
+uvicorn
+redis      # Redis client
+redis-om
+pymongo    # MongoDB driver
+pydantic 
+motor
+fastapi 
+aioredis
+motor
+bson
